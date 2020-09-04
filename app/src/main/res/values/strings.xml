@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Anuvaad</string>
+    <string name="translated">Translated</string>
+    <string name="anuvaad">Anuvaad</string>
+    <string name="input">input</string>
+    <string name="translatebutton">ANUVAAD</string>
+    <string name="inputtext">Enter text</string>
+    <string name="translatedtext">Translated text will show up here</string>
+    <string name="tap_to_enter">Tap to enter</string>
+    <string name="textview">Enter Target Language Code</string>
+    <string name="textview1">Enter Text</string>
+    <string name="tagline">Anuvaad Karo Baat Karo</string>
+</resources>
