@@ -9,6 +9,8 @@ You have to create a script in Google App Script script editor. Visit script.goo
 When you come across with editor in Google App Script, paste the below script in your editor and save your work by giving a name 
 to your script.
 
+# Google App Script
+
 ```
 var mock = {
   parameter:{
